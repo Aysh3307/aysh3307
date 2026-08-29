@@ -1,65 +1,66 @@
-# Hi 👋, I'm Aisha Iqbal
+<div align="center">
 
-### 💻 Frontend Developer | Web Designer
+# 👋 Hi, I'm Aisha Iqbal
 
-I’m passionate about creating clean, modern and user-friendly websites.
-Currently learning and improving my skills in Web Development 🚀
+### 💻 Frontend Developer • Web Designer
+
+*Creating clean, modern & user-friendly web experiences.*
 
 ---
 
-## 🛠️ Skills & Technologies
+<a href="https://github.com/aysh3307">
+  <img src="https://img.shields.io/badge/GitHub-aysh3307-800000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="left">
+</div>
+
+## ✨ About Me
+
+- 🎨 Passionate about **Web Designing**
+- 💻 Learning **Frontend Development**
+- ⚡ Building projects with **HTML, CSS & JavaScript**
+- 🚀 Improving my skills through practical projects
+- 🌱 Always learning something new
+
+## 🛠️ Skills
+
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
 
----
+## 📂 Featured Projects
 
-## 📌 What I'm Learning
+| Project | Description |
+|---|---|
+| 🎓 Student Registration Form | HTML, CSS & JavaScript based registration form |
+| 🌐 Web Design Projects | Clean and responsive website designs |
+| ⚡ JavaScript Projects | Small projects for practicing JavaScript |
 
-- 🌐 HTML & CSS
-- ⚡ JavaScript
-- 🎨 Web Designing
-- 💻 Frontend Development
-- 🚀 Git & GitHub
+## 📊 GitHub
 
----
+<div align="center">
 
-## 📂 My Projects
+<img src="https://github-readme-stats.vercel.app/api?username=aysh3307&show_icons=true&theme=dark&title_color=800000&icon_color=800000&text_color=ffffff&bg_color=1a1a1a" />
 
-🔹 Student Registration Form  
-🔹 Responsive Web Designs  
-🔹 JavaScript Projects  
-🔹 HTML & CSS Practice Projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysh3307&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysh3307&theme=radical" />
-</p>
-
----
+</div>
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://github.com/aysh3307">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-800000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ✨ Thanks for visiting my profile!
+<div align="center">
 
-⭐ Feel free to explore my repositories and projects.
+### 🤍 Thanks for visiting my profile!
+
+**Let's build something amazing together 🚀**
+
+</div>
