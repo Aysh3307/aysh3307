@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=AYSHA%20IQBAL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20%7C%20Finance%20%7C%20Technology&descAlignY=60&descSize=18"/>
 
-<h2>👋 Hello, I'm Aysha Iqbal</h2>
+<h2>👋 Hello, I'm Aisha Iqbal</h2>
 
 <p>
 <b>BS Accounting & Finance Student</b> • 
